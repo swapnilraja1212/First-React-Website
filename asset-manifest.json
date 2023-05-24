@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/First-React-Website/static/css/main.ed0e82b6.css",
+    "main.js": "/First-React-Website/static/js/main.987d6300.js",
+    "static/js/787.0ffb3a8c.chunk.js": "/First-React-Website/static/js/787.0ffb3a8c.chunk.js",
+    "static/media/home.png": "/First-React-Website/static/media/home.5e1d309b09fd71fca1b1.png",
+    "static/media/about.png": "/First-React-Website/static/media/about.bea4c1a5d42e10cd821f.png",
+    "static/media/logo.png": "/First-React-Website/static/media/logo.65ca18b4e9841f85a691.png",
+    "index.html": "/First-React-Website/index.html",
+    "main.ed0e82b6.css.map": "/First-React-Website/static/css/main.ed0e82b6.css.map",
+    "main.987d6300.js.map": "/First-React-Website/static/js/main.987d6300.js.map",
+    "787.0ffb3a8c.chunk.js.map": "/First-React-Website/static/js/787.0ffb3a8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0e82b6.css",
+    "static/js/main.987d6300.js"
+  ]
+}
